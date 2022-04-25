@@ -55,8 +55,8 @@ a button{
     align-items: center;
     font-weight: bold;
     background-color: rgba(255, 255, 255, 0.153);
-    gap: 3px;
-    
+    gap: 4px;
+    border-radius: 3px;
     margin-left: 10px;
 }
 a button:hover{
